@@ -1,4 +1,4 @@
-% script updated by Lorena Castro from the University of Iowa to subset TROPOMI data
+% script TROPOMI data
 % this version of the script does not allow downloading data on the flight, these should be retrieved separately
 
 %L2dir = '/Dedicated/jwang-data/lcastro/TROPOMI/NO2/source_data/CA/'; % raw L2 data directory,
@@ -170,7 +170,7 @@ if if_plot
     	plot(US_states(istate).X,US_states(istate).Y,'k','linewidth',1.4)
 	end
 %	alpha(h,0.9)
-	addpath('C:\Users\wukai\OneDrive\×ÀÃæ\')
+	addpath('C:\Users\wukai\OneDrive\Ã—Ã€ÃƒÃ¦\')
 %	plot_google_map('MapType','terrain')
 	xlim([inp_regrid.MinLon inp_regrid.MaxLon])
 	ylim([inp_regrid.MinLat inp_regrid.MaxLat])
