@@ -1,4 +1,4 @@
-% script TROPOMI data
+% script write by Xinbin Bao to subset TROPOMI data
 % this version of the script does not allow downloading data on the flight, these should be retrieved separately
 
 %L2dir = '/Dedicated/jwang-data/lcastro/TROPOMI/NO2/source_data/CA/'; % raw L2 data directory,
