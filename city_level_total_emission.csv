@@ -1,0 +1,371 @@
+Province,City,Source,SO2,NOX,CO,VOC,PM10,PM2.5,NH3
+Shanghai,Shanghai,Power plants,6584.15,29948.36,102973.07,943.41,7158.06,4597.8,800.23
+Shanghai,Shanghai,Boilers,45662.21,32809.15,754527.7,917.59,2641.42,1651.32,184.79
+Shanghai,Shanghai,Industrial process source,2798.34,837.44,124750.65,148575.24,28992.53,21077.52,425.9
+Shanghai,Shanghai,Industrial solvent-use source,0,3.62,0,119133.97,1252.93,883.71,0
+Shanghai,Shanghai,Motor vehicles,0,117263.46,378616.38,68365.14,9937.94,9107.95,3537.19
+Shanghai,Shanghai,Non-road source,737.61,36804.79,20410.62,4040.28,1584.56,1507.37,0
+Shanghai,Shanghai,Dust source,0,0,0,0,69874.62,15425.15,0
+Shanghai,Shanghai,Residential source,1409.63,6974.95,7523.15,75904.34,1853.06,1588.21,18309.8
+Shanghai,Shanghai,Agricultural source,34.6,68.22,4092.91,337.5,359.58,334.39,31168.69
+Jiangsu,Nanjing,Power plants,4466.87,19529.09,44362.49,512.97,2004.74,1547.46,468.92
+Jiangsu,Nanjing,Boilers,42505.06,37000.74,998514.04,682.6,4671.7,3039.98,141.2
+Jiangsu,Nanjing,Industrial process source,2394.65,7016.77,180162.69,116419.93,20035.26,15210.4,2202.34
+Jiangsu,Nanjing,Industrial solvent-use source,0,9.25,0,18495.77,645.57,466.23,0
+Jiangsu,Nanjing,Motor vehicles,0,47831.04,184019.13,34992.06,3798.77,3504.93,1740.72
+Jiangsu,Nanjing,Non-road source,293.01,17425.83,17175.01,2679.41,804.4,765.31,0
+Jiangsu,Nanjing,Dust source,0,0,0,0,55876.77,12516.57,0
+Jiangsu,Nanjing,Residential source,1964.77,2216.66,13353.11,48888.35,2154.21,1892.43,4751.07
+Jiangsu,Nanjing,Agricultural source,60.61,159.89,7979.24,666.81,832.16,773.89,19751.25
+Jiangsu,Wuxi,Power plants,9639.54,25258.37,92330.64,684.51,2824.15,2021.75,566.28
+Jiangsu,Wuxi,Boilers,25399.4,17410.97,849236.27,435.53,3742.34,1910.04,56.4
+Jiangsu,Wuxi,Industrial process source,5117.9,4194.73,44603.74,94071.82,36982.5,23187.61,5826.79
+Jiangsu,Wuxi,Industrial solvent-use source,0,15.34,0,41725.6,3126.41,1972.17,0
+Jiangsu,Wuxi,Motor vehicles,0,34763.58,127454.41,26340.65,3016.31,2772.16,1068.87
+Jiangsu,Wuxi,Non-road source,151.71,11135.26,12371.18,1842.65,540.71,514.37,0
+Jiangsu,Wuxi,Dust source,0,0,0,0,39600.46,8863.57,0
+Jiangsu,Wuxi,Residential source,1678.17,1732.48,11501.04,32950.77,1809.26,1592.51,3846.58
+Jiangsu,Wuxi,Agricultural source,29.99,76.58,3886.78,330.32,389.54,362.26,15788.87
+Jiangsu,Xuzhou,Power plants,21183.11,23523.55,111319.17,612.48,12529.22,8404.83,620.18
+Jiangsu,Xuzhou,Boilers,64880,44389.1,1229203.6,718.03,24124.43,15225.67,154.91
+Jiangsu,Xuzhou,Industrial process source,5709.06,11940.06,165355.1,75797.65,66595.55,40817.79,1170.48
+Jiangsu,Xuzhou,Industrial solvent-use source,0,13.75,0,24443.56,1645.21,1188.23,0
+Jiangsu,Xuzhou,Motor vehicles,0,45991.6,111470.09,24591.25,3870.84,3530.69,882.63
+Jiangsu,Xuzhou,Non-road source,261.42,20007.66,33507.96,4885,1336.85,1271.7,0
+Jiangsu,Xuzhou,Dust source,0,0,0,0,92533.64,19773.03,0
+Jiangsu,Xuzhou,Residential source,2591.58,2290.17,17990.35,16458.79,2703.7,2388.7,5433.72
+Jiangsu,Xuzhou,Agricultural source,105.13,336.55,14387.65,1247.72,1615.44,1502.33,156049.74
+Jiangsu,Changzhou,Power plants,6124.93,12940.73,26848.56,236.22,1189.7,778.37,154.69
+Jiangsu,Changzhou,Boilers,45077.51,15653.6,1101521.4,320.77,3379.83,1883.3,51.04
+Jiangsu,Changzhou,Industrial process source,5341.44,18577.52,34684.5,79008.74,63040.94,26369.46,1810.42
+Jiangsu,Changzhou,Industrial solvent-use source,0,11.23,0,34151.32,2102.49,1361.38,0
+Jiangsu,Changzhou,Motor vehicles,0,27402.2,120751.41,24702.56,2468,2289.3,1025.77
+Jiangsu,Changzhou,Non-road source,142.96,10857.88,16103.69,2231.99,561.68,534.61,0
+Jiangsu,Changzhou,Dust source,0,0,0,0,44164.05,9825.11,0
+Jiangsu,Changzhou,Residential source,1272.22,1242.22,8761.34,12002.36,1355.26,1194.51,2822.53
+Jiangsu,Changzhou,Agricultural source,33.18,118.58,5065.54,441.4,592.76,551.26,20870.23
+Jiangsu,Suzhou,Power plants,17103.28,46503.38,105463.18,1213.05,18472.44,12261.79,1059.59
+Jiangsu,Suzhou,Boilers,71696.85,48000.25,1727040.71,1131.58,7434.52,4572.85,206.9
+Jiangsu,Suzhou,Industrial process source,13524.81,1830.19,149830.7,108330.66,48432.39,35062.45,3293.72
+Jiangsu,Suzhou,Industrial solvent-use source,0,30.65,0,75156.13,3169.3,2117.23,0
+Jiangsu,Suzhou,Motor vehicles,0,59319.61,241215.87,43680.48,5190.96,4784.7,2167.47
+Jiangsu,Suzhou,Non-road source,295.29,24776.38,9777.19,2321.76,1173.28,1114.82,0
+Jiangsu,Suzhou,Dust source,0,0,0,0,62222.17,14214.87,0
+Jiangsu,Suzhou,Residential source,2742.9,2823.99,18802.57,31240.08,2954.69,2600.94,6276.99
+Jiangsu,Suzhou,Agricultural source,32.91,125.5,5164.6,459.77,612.62,569.74,21526.45
+Jiangsu,Nantong,Power plants,7486.58,17983.25,54923.03,491.65,2115.43,1529.65,479.29
+Jiangsu,Nantong,Boilers,24392.36,14865.65,2037459.48,374.03,3895.83,2295.91,54.07
+Jiangsu,Nantong,Industrial process source,6018.89,158.21,5839.48,62151.29,27253.86,13800.72,1258.21
+Jiangsu,Nantong,Industrial solvent-use source,0,18.76,0,58437.75,4284.71,2629.4,0
+Jiangsu,Nantong,Motor vehicles,0,25953.53,141432.89,34451.55,2338.88,2179.24,1273.72
+Jiangsu,Nantong,Non-road source,249.47,19922.55,35706.96,4725.12,1061.57,1010.59,0
+Jiangsu,Nantong,Dust source,0,0,0,0,61465.75,13136.65,0
+Jiangsu,Nantong,Residential source,2106.57,1913.15,14592.78,46929.39,2211.35,1952.35,4484.62
+Jiangsu,Nantong,Agricultural source,145.61,389.33,18189.66,1501.24,2032.42,1890.14,138127.83
+Jiangsu,Lianyungang,Power plants,5509.01,4899.44,16172.33,131.2,713.61,530.42,136.5
+Jiangsu,Lianyungang,Boilers,17096.02,19107.29,674605.8,245.22,1815.57,1039.83,48.26
+Jiangsu,Lianyungang,Industrial process source,970.71,258.76,21058.96,66311.18,25387.56,13665.83,1260.28
+Jiangsu,Lianyungang,Industrial solvent-use source,0,0.37,0,17877.14,378.94,266.29,0
+Jiangsu,Lianyungang,Motor vehicles,0,32256.21,56589.76,17364.1,3510.59,3181.72,471.55
+Jiangsu,Lianyungang,Non-road source,179.85,14099.07,33632.31,4337.98,903.11,859.84,0
+Jiangsu,Lianyungang,Dust source,0,0,0,0,51725.87,11171.51,0
+Jiangsu,Lianyungang,Residential source,1366.32,1178.48,9502.03,10025.39,1419.41,1254.66,2826.7
+Jiangsu,Lianyungang,Agricultural source,90.52,359.02,14740.36,1311.97,1743.82,1621.74,91664.79
+Jiangsu,Huaian,Power plants,4064.33,8583.62,13613.57,193.24,1023.79,739.01,127.99
+Jiangsu,Huaian,Boilers,35312.48,29049.4,1827021.71,441.09,2164.15,1225.82,96.44
+Jiangsu,Huaian,Industrial process source,1634.17,509.49,14194.8,58132.6,19244.39,8806.04,838.39
+Jiangsu,Huaian,Industrial solvent-use source,0,3.56,0,12992.78,547.93,394.84,0
+Jiangsu,Huaian,Motor vehicles,0,16266.24,52786.87,14497.65,1437.13,1317.82,515.17
+Jiangsu,Huaian,Non-road source,244.67,20234.82,29090.67,4369.62,1282.19,1220.05,0
+Jiangsu,Huaian,Dust source,0,0,0,0,79534.92,16711.58,0
+Jiangsu,Huaian,Residential source,1493.13,1281.1,10387.94,12713.81,1549.9,1370.14,3080.18
+Jiangsu,Huaian,Agricultural source,254.2,569.12,31233.11,2607.55,2945.11,2738.84,99428.56
+Jiangsu,Yancheng,Power plants,11617.37,12003.18,34400.77,278.32,3550.21,2298.81,295.19
+Jiangsu,Yancheng,Boilers,25061.33,17030.47,824450.19,322.32,4316.11,2467.78,51.23
+Jiangsu,Yancheng,Industrial process source,3070.81,1573.27,23452.53,60811.69,24999.53,14847.9,1844.37
+Jiangsu,Yancheng,Industrial solvent-use source,0,17.16,0,28050.31,2789.78,1659.92,0
+Jiangsu,Yancheng,Motor vehicles,0,26828.53,70355.77,15675.21,2279.06,2090.03,599.79
+Jiangsu,Yancheng,Non-road source,212.97,17158.09,85747.81,9617.65,1149.89,1097.59,0
+Jiangsu,Yancheng,Dust source,0,0,0,0,82349.04,17299.02,0
+Jiangsu,Yancheng,Residential source,2161.87,1891.05,15018.93,14445.52,2255.7,1992.95,4507.28
+Jiangsu,Yancheng,Agricultural source,327.89,784.24,41231.35,3419.25,4083.11,3797.17,206990.97
+Jiangsu,Yangzhou,Power plants,4573.81,9791.78,21168.56,280.54,871.83,686.83,196.16
+Jiangsu,Yangzhou,Boilers,16540.29,13959.86,775293.6,279.98,2046.02,1186.06,44.79
+Jiangsu,Yangzhou,Industrial process source,1764.82,122.38,8965.95,60582.24,15148.07,8928.36,955.38
+Jiangsu,Yangzhou,Industrial solvent-use source,0,6.12,0,30135.34,2108.01,1249.22,0
+Jiangsu,Yangzhou,Motor vehicles,0,11704.1,51598.11,13631.48,922.89,850.95,496.56
+Jiangsu,Yangzhou,Non-road source,198.12,14847.37,19326.6,2842.79,796.16,757.45,0
+Jiangsu,Yangzhou,Dust source,0,0,0,0,78540.92,16532.46,0
+Jiangsu,Yangzhou,Residential source,1299.74,1180.7,9003.51,28245.68,1363.27,1203.69,2767.38
+Jiangsu,Yangzhou,Agricultural source,462.41,503.96,44755.36,3467.88,2962.75,2755.05,47163.73
+Jiangsu,Zhenjiang,Power plants,4652.05,14226.32,42560.23,423.05,1899.83,1463.02,450.16
+Jiangsu,Zhenjiang,Boilers,22606.28,11758.57,817864.81,265.95,1272.78,734,46.65
+Jiangsu,Zhenjiang,Industrial process source,14171.71,7482.3,52761.09,78938.15,26785.82,14616.47,1868.74
+Jiangsu,Zhenjiang,Industrial solvent-use source,0,9.4,0,14539.16,4866.42,2625.19,0
+Jiangsu,Zhenjiang,Motor vehicles,0,12857.36,50196.54,12556.92,1063.62,980.82,400.24
+Jiangsu,Zhenjiang,Non-road source,91.6,7750.2,6521.57,1123.52,414.57,394.1,0
+Jiangsu,Zhenjiang,Dust source,0,0,0,0,32679.17,6973.16,0
+Jiangsu,Zhenjiang,Residential source,872.74,838.02,6018.69,9779.15,925.9,816.45,1917.67
+Jiangsu,Zhenjiang,Agricultural source,317.93,253.77,28851.25,2166.19,1635.69,1520.96,18302.08
+Jiangsu,Taizhou,Power plants,6037.58,12627.76,35450.8,347.82,1296.93,959.48,360.12
+Jiangsu,Taizhou,Boilers,12768.09,9151.01,676942.52,249.53,1248.79,714.65,29.23
+Jiangsu,Taizhou,Industrial process source,1502.02,224.84,11660.64,73129.5,18742.58,10515.42,1478.16
+Jiangsu,Taizhou,Industrial solvent-use source,0,13.45,0,35820.33,4049.87,2589.38,0
+Jiangsu,Taizhou,Motor vehicles,0,16098.81,69141.98,15671.45,1421.8,1316.12,675.92
+Jiangsu,Taizhou,Non-road source,185.28,15289.54,12763.37,2234.73,837.55,796.25,0
+Jiangsu,Taizhou,Dust source,0,0,0,0,83196.45,17286.72,0
+Jiangsu,Taizhou,Residential source,1358.05,1217.04,9417.28,23631.7,1422.08,1255.88,2869.66
+Jiangsu,Taizhou,Agricultural source,160.12,378.36,19991.84,1667.33,1967.94,1830.13,63401.77
+Jiangsu,Suqian,Power plants,6024.5,4852.4,37319.29,70.07,384.53,278.78,47.83
+Jiangsu,Suqian,Boilers,17336.77,6023.35,313262.83,102.61,730.34,434.01,14.17
+Jiangsu,Suqian,Industrial process source,1201.41,9.65,2956.65,53397.63,5831.75,3309.42,504.23
+Jiangsu,Suqian,Industrial solvent-use source,0,0.07,0,5030.81,501.05,388.99,0
+Jiangsu,Suqian,Motor vehicles,0,21101.79,48629.39,13349.82,1866.42,1700.3,368.07
+Jiangsu,Suqian,Non-road source,217.68,17655.85,45213.38,5922.44,1225.14,1165.21,0
+Jiangsu,Suqian,Dust source,0,0,0,0,44953.31,9580.38,0
+Jiangsu,Suqian,Residential source,1536.59,1277.93,10714.41,11132.38,1586.59,1403.46,3116.64
+Jiangsu,Suqian,Agricultural source,309.17,439.5,32339.06,2573.51,2424.93,2254.99,103090.4
+Zhejiang,Hangzhou,Power plants,3954.16,12206.03,31581.52,264.55,968.53,624.6,165.2
+Zhejiang,Hangzhou,Boilers,26444.15,11971.16,906499.31,296.58,3461.72,1735.97,48.47
+Zhejiang,Hangzhou,Industrial process source,7326.34,12164.81,35478.69,68043.33,24663.96,15664.66,480.54
+Zhejiang,Hangzhou,Industrial solvent-use source,0,3.79,0,39455.63,3861.7,2000.7,0
+Zhejiang,Hangzhou,Motor vehicles,0,52120.07,202619.07,39631.55,4134.6,3814.92,1632.51
+Zhejiang,Hangzhou,Non-road source,329.97,19033.49,16924.77,2832.14,884.44,841.34,0
+Zhejiang,Hangzhou,Dust source,0,0,0,0,59803.93,13318.33,0
+Zhejiang,Hangzhou,Residential source,924.77,3086.35,4488.73,26595.88,1020.87,876.01,5821.09
+Zhejiang,Hangzhou,Agricultural source,60.1,119.69,6594.83,534.36,636.18,591.63,47978.15
+Zhejiang,Ningbo,Power plants,10640.31,31312.66,86355.35,919.31,30067.18,19705.06,869.04
+Zhejiang,Ningbo,Boilers,39907.22,32631.78,1014177.4,584.58,7177.68,3374.56,89
+Zhejiang,Ningbo,Industrial process source,9718.52,1790.28,217677.01,140597.64,15214.6,12318.34,692.14
+Zhejiang,Ningbo,Industrial solvent-use source,0,23.7,0,72842.01,3646.16,2386.18,0
+Zhejiang,Ningbo,Motor vehicles,0,46411.31,196224.53,44189.67,3948.7,3651.8,1708.26
+Zhejiang,Ningbo,Non-road source,291.18,21957.23,17723.83,2953.67,1021.46,971.04,0
+Zhejiang,Ningbo,Dust source,0,0,0,0,61930.15,13731.11,0
+Zhejiang,Ningbo,Residential source,814.59,2617.71,4015.57,84945.06,870.9,749.55,5011.46
+Zhejiang,Ningbo,Agricultural source,92.38,175.18,10195.45,846.04,906.57,843.07,27170.65
+Zhejiang,Wenzhou,Power plants,4118.29,11915.28,42331.27,365.01,1646.59,1211.06,381.05
+Zhejiang,Wenzhou,Boilers,8889.52,5247.13,197318.41,123.18,1121.5,662.94,11.02
+Zhejiang,Wenzhou,Industrial process source,637.59,145.53,3551.68,25723.75,2363.03,1695.48,44.35
+Zhejiang,Wenzhou,Industrial solvent-use source,0,3.09,0,28677.85,422.16,271.16,0
+Zhejiang,Wenzhou,Motor vehicles,0,28851.56,200796.03,44506.3,2769.04,2602.06,1770.61
+Zhejiang,Wenzhou,Non-road source,192.35,13513.21,9466.48,1688.99,625.31,594.44,0
+Zhejiang,Wenzhou,Dust source,0,0,0,0,51615.29,11345.5,0
+Zhejiang,Wenzhou,Residential source,960.82,3019.22,4778.22,22264.09,1015.88,875.41,5832.43
+Zhejiang,Wenzhou,Agricultural source,43.47,166.28,6851.56,609.52,812.62,755.74,30582.65
+Zhejiang,Jiaxing,Power plants,6404.14,12907.72,43380.93,398.39,3146.07,2176.53,404.42
+Zhejiang,Jiaxing,Boilers,22037.37,15384.22,827311.16,369.6,2180.06,1196.26,72.09
+Zhejiang,Jiaxing,Industrial process source,3724.52,4771.16,7187.17,78667.82,10588.17,7789.45,54.18
+Zhejiang,Jiaxing,Industrial solvent-use source,0,6.16,0,55744.21,2189.19,1199.51,0
+Zhejiang,Jiaxing,Motor vehicles,0,23471.36,109764.56,30459.9,2149.86,1990.94,1106.06
+Zhejiang,Jiaxing,Non-road source,124.9,10343.46,10496.06,1635.69,517.83,492.36,0
+Zhejiang,Jiaxing,Dust source,0,0,0,0,59770.53,12749.46,0
+Zhejiang,Jiaxing,Residential source,507.96,1531.18,2565.81,18669.53,518.48,448.31,3008.68
+Zhejiang,Jiaxing,Agricultural source,606.84,468.08,54322.54,4092.8,2995.8,2785.64,21429.15
+Zhejiang,Huzhou,Power plants,5104.86,6831.71,16256.54,173.58,2050.81,1409.06,174.65
+Zhejiang,Huzhou,Boilers,42625.85,11120.15,259179.22,205.18,1323.48,840.81,29.92
+Zhejiang,Huzhou,Industrial process source,3160.87,11264.52,26266.15,50422.09,25021.91,15599.44,66.76
+Zhejiang,Huzhou,Industrial solvent-use source,0,5.52,0,37161.06,1307.54,744.86,0
+Zhejiang,Huzhou,Motor vehicles,0,8705,55960.01,16329.23,775.83,723.26,501.73
+Zhejiang,Huzhou,Non-road source,79.83,6623.71,5530.72,955.99,343.17,326.14,0
+Zhejiang,Huzhou,Dust source,0,0,0,0,33353.38,7113.33,0
+Zhejiang,Huzhou,Residential source,333.7,986.7,1697.32,7899.52,337.1,291.81,1954.45
+Zhejiang,Huzhou,Agricultural source,1218.86,582.52,101838.03,7410.52,4443.65,4131.6,24267.61
+Zhejiang,Shaoxing,Power plants,5318,11088.37,93027.2,252.58,1138.27,731.26,219.29
+Zhejiang,Shaoxing,Boilers,13095.07,9697.33,363190.18,278.44,1062.26,593.24,21.36
+Zhejiang,Shaoxing,Industrial process source,7108.6,2319.16,4787.59,40484.49,7286.1,5389.41,143.69
+Zhejiang,Shaoxing,Industrial solvent-use source,0,13.66,0,48326.95,1947.65,1204.21,0
+Zhejiang,Shaoxing,Motor vehicles,0,18793.48,96651.29,22637.76,1667.43,1545.96,923.12
+Zhejiang,Shaoxing,Non-road source,153.04,12660.27,9098.4,1624.13,612.1,581.74,0
+Zhejiang,Shaoxing,Dust source,0,0,0,0,49416.72,10585.56,0
+Zhejiang,Shaoxing,Residential source,541.92,1646.42,2729.49,29004.33,561.04,484.52,3224.64
+Zhejiang,Shaoxing,Agricultural source,902.65,536.04,77383.3,5707.98,3751.94,3488.6,37547
+Zhejiang,Jinhua,Power plants,3900.46,5417.13,14743.91,145.93,690.62,513.77,155.8
+Zhejiang,Jinhua,Boilers,19127.96,7971.64,281846.33,171.59,1916.54,1009.58,19.14
+Zhejiang,Jinhua,Industrial process source,3689.17,7620.84,26672.79,25216.3,19139.01,11966.76,26.21
+Zhejiang,Jinhua,Industrial solvent-use source,0,2.63,0,24079.01,2013.22,1197.56,0
+Zhejiang,Jinhua,Motor vehicles,0,23762.58,134650.44,26832.88,2306.05,2142.57,1232
+Zhejiang,Jinhua,Non-road source,154.42,12403.38,11276.96,1841.33,609.31,579.33,0
+Zhejiang,Jinhua,Dust source,0,0,0,0,41715.51,9141.2,0
+Zhejiang,Jinhua,Residential source,595.65,1826.92,2989.55,20350.8,616.96,532.7,3564.19
+Zhejiang,Jinhua,Agricultural source,296.26,239.56,26527.94,1996.54,1519.24,1412.68,33911.7
+Zhejiang,Quzhou,Power plants,4542.75,3787.54,7134.02,86.39,6084.37,3938.34,74.63
+Zhejiang,Quzhou,Boilers,26095.74,19737.43,362722.1,210.94,2047.19,1048.49,49.48
+Zhejiang,Quzhou,Industrial process source,8829.71,9050.29,23407.68,31954.46,15633.66,9900.49,566.73
+Zhejiang,Quzhou,Industrial solvent-use source,100.5,2.57,0,6945.27,483.2,288.88,0
+Zhejiang,Quzhou,Motor vehicles,0,7536.34,30468.64,8238.61,679.88,625.15,309.34
+Zhejiang,Quzhou,Non-road source,56.22,4722.97,12581.98,1519.42,251.2,239.3,0
+Zhejiang,Quzhou,Dust source,0,0,0,0,20650.21,4405.11,0
+Zhejiang,Quzhou,Residential source,256.24,723.08,1324.46,4376.5,249.69,216.95,1461
+Zhejiang,Quzhou,Agricultural source,1148.9,592.69,96817.01,7056.19,4416.66,4106.58,39645.78
+Zhejiang,Zhoushan,Power plants,2626.32,6602.59,16542.22,165.45,4686,3072.84,179.88
+Zhejiang,Zhoushan,Boilers,2269.28,961.62,49455.77,15.18,162.39,98.76,3.16
+Zhejiang,Zhoushan,Industrial process source,469.44,517.26,12335.71,8298.29,2485.05,1848.67,64.44
+Zhejiang,Zhoushan,Industrial solvent-use source,0,0.28,0,4729.93,131.95,78.67,0
+Zhejiang,Zhoushan,Motor vehicles,0,4534.33,15229.2,3591.22,391.12,357.55,110.93
+Zhejiang,Zhoushan,Non-road source,41.66,2770.43,2710.81,413.77,122.64,116.64,0
+Zhejiang,Zhoushan,Dust source,0,0,0,0,13679.03,2900.46,0
+Zhejiang,Zhoushan,Residential source,123.73,383.18,618.78,30358.49,129.9,112.02,744.62
+Zhejiang,Zhoushan,Agricultural source,7.97,6.66,732.82,54.86,42.85,39.85,1961.94
+Zhejiang,Taizhou,Power plants,4398.9,11281.99,49664.79,385.77,1877.98,1415.54,415.54
+Zhejiang,Taizhou,Boilers,16151.22,5408.4,192317.72,82.33,1194.3,572.02,12.38
+Zhejiang,Taizhou,Industrial process source,776.84,158.42,779.11,28373.75,13549.09,8809.95,18.75
+Zhejiang,Taizhou,Industrial solvent-use source,0,8.97,0,49623,2285.38,1314.97,0
+Zhejiang,Taizhou,Motor vehicles,0,27278.82,142243.12,28754.87,2619.67,2439.87,1265.89
+Zhejiang,Taizhou,Non-road source,108.26,8825.81,11549.32,1659.7,445.77,424.02,0
+Zhejiang,Taizhou,Dust source,0,0,0,0,61262.23,13131.72,0
+Zhejiang,Taizhou,Residential source,680.53,2015.28,3459.53,19700.06,693.71,600.09,3989.31
+Zhejiang,Taizhou,Agricultural source,111.22,183.27,11936.77,969.01,979.58,910.95,25874.63
+Zhejiang,Lishui,Power plants,3238.01,1768.35,2446.32,15.27,434.88,280.47,14.31
+Zhejiang,Lishui,Boilers,8950.84,2678.85,59633.53,41.28,598.88,334.36,7.35
+Zhejiang,Lishui,Industrial process source,1288.02,1403.27,474.81,14675.27,3795.34,2706.81,12.58
+Zhejiang,Lishui,Industrial solvent-use source,0,3.14,0,5097.1,425.72,293.05,0
+Zhejiang,Lishui,Motor vehicles,0,7015.67,36108.76,12154.88,795.59,730.59,344.29
+Zhejiang,Lishui,Non-road source,49.4,4166.59,4400.1,688.62,217.27,206.59,0
+Zhejiang,Lishui,Dust source,0,0,0,0,33480.86,7011.83,0
+Zhejiang,Lishui,Residential source,248.24,721.36,1270.34,3863.58,247.98,214.92,1439.36
+Zhejiang,Lishui,Agricultural source,38.23,104.28,4667.46,405.26,509.51,473.84,19771.21
+Anhui,Hefei,Power plants,3629.75,6325.47,34383.73,189.75,10638.59,7001.91,198.82
+Anhui,Hefei,Boilers,11658.73,8828.87,586946.02,218.16,1064.73,676.82,32.82
+Anhui,Hefei,Industrial process source,1554.83,12661.5,33556.42,22838.79,20560.93,13182.16,1851.63
+Anhui,Hefei,Industrial solvent-use source,0,13.2,0,48630.8,3313.96,2173.56,0
+Anhui,Hefei,Motor vehicles,0,44094.83,142801.53,31278.13,3823.09,3505.17,1214.67
+Anhui,Hefei,Non-road source,327.34,24211.92,17840.16,3319.35,1268.38,1205.62,0
+Anhui,Hefei,Dust source,0,0,0,0,84475.03,18293.31,0
+Anhui,Hefei,Residential source,3760.07,1484.31,28666.31,37496.57,3989.4,3536.03,4583.65
+Anhui,Hefei,Agricultural source,522.71,1100.36,62930.26,5127.03,5907.88,5494.13,65179.91
+Anhui,Wuhu,Power plants,3255.29,4644.68,14354.32,136.22,795.85,616.54,145.41
+Anhui,Wuhu,Boilers,31411.59,25844.02,638598.99,376.51,1630.44,1019.99,69.87
+Anhui,Wuhu,Industrial process source,2922.65,32869.71,61612.75,27105.42,36129.47,24245.83,726.34
+Anhui,Wuhu,Industrial solvent-use source,0,11.03,0,26938.86,1832.83,1155.41,0
+Anhui,Wuhu,Motor vehicles,0,13018.16,54544.37,14276.49,1064.55,982.59,389.88
+Anhui,Wuhu,Non-road source,91.97,7599.51,8595.97,1337.62,423,402.21,0
+Anhui,Wuhu,Dust source,0,0,0,0,52814.35,11183.54,0
+Anhui,Wuhu,Residential source,1552.52,692.61,11795.08,10629.82,1649.22,1461.01,2016.52
+Anhui,Wuhu,Agricultural source,201.63,499.68,25844.05,2145.61,2620.4,2436.92,30938.05
+Anhui,Bengbu,Power plants,3880.85,4428.16,10873.43,92.37,2192.5,1504.71,93.74
+Anhui,Bengbu,Boilers,8099.96,5961.52,420521.1,94.74,604.28,355.03,20.79
+Anhui,Bengbu,Industrial process source,1155.03,2781.63,10410.9,27530.71,15394.81,12067.51,2481.39
+Anhui,Bengbu,Industrial solvent-use source,0,9.52,0,5709.52,1051.22,767.88,0
+Anhui,Bengbu,Motor vehicles,0,11844.43,36044.72,11618.14,1602.18,1459.61,192.15
+Anhui,Bengbu,Non-road source,179.82,14062.65,37148.73,4843.46,1023.22,973.92,0
+Anhui,Bengbu,Dust source,0,0,0,0,88759.31,18552.41,0
+Anhui,Bengbu,Residential source,1674.44,627.64,12782.93,8253.49,1749.59,1553.34,1989.35
+Anhui,Bengbu,Agricultural source,815.41,576.55,71623.71,5342.13,3760.48,3496.6,74409.79
+Anhui,Huainan,Power plants,10088.15,26065.9,68442.56,675.18,16585.48,11134.98,730.22
+Anhui,Huainan,Boilers,6357.7,4158.71,652966.45,93.95,979.22,584.03,18.93
+Anhui,Huainan,Industrial process source,819.94,2625.54,3863.35,6153.12,28110.11,18081.58,261.01
+Anhui,Huainan,Industrial solvent-use source,0,0.51,0,447.73,82.2,61.75,0
+Anhui,Huainan,Motor vehicles,0,10147.67,27902.98,7479.76,828.06,754.65,217.75
+Anhui,Huainan,Non-road source,52.99,4158.18,12455.51,1599.55,323.78,308.2,0
+Anhui,Huainan,Dust source,0,0,0,0,20934.48,4616.32,0
+Anhui,Huainan,Residential source,1604.61,650.62,12224.47,5280.2,1653.75,1469.89,1982.79
+Anhui,Huainan,Agricultural source,710.91,836.36,70432.15,5512.07,4811.61,4474.33,58693.19
+Anhui,Maanshan,Power plants,2463.62,5261.01,20817.29,201.69,1228.98,952.72,216.64
+Anhui,Maanshan,Boilers,21607.52,16070.12,446256.05,371.29,2339.82,1269.93,85.89
+Anhui,Maanshan,Industrial process source,1136.96,9063.39,71033.42,8917.08,38234.58,24126.6,424.92
+Anhui,Maanshan,Industrial solvent-use source,0,7.84,0,5206.1,943.82,643.14,0
+Anhui,Maanshan,Motor vehicles,0,6017.65,23930.82,5721.87,465.34,430.45,194.26
+Anhui,Maanshan,Non-road source,68.78,5668.46,6266.52,984.2,312.61,297.24,0
+Anhui,Maanshan,Dust source,0,0,0,0,29138.82,6129.13,0
+Anhui,Maanshan,Residential source,1042.41,429.77,7937.8,5497.76,1104.46,978.94,1299.14
+Anhui,Maanshan,Agricultural source,204.47,371.4,23228.51,1859.06,2046.05,1902.74,13431.37
+Anhui,Huaibei,Power plants,4559.25,9030.15,27479.3,263.43,3302.53,2444.64,285.81
+Anhui,Huaibei,Boilers,27142.49,15033.2,4289062.72,232.06,4743.26,2625.86,52.58
+Anhui,Huaibei,Industrial process source,3642.39,5007.6,34624.96,16307.87,50082.28,32258.51,703.25
+Anhui,Huaibei,Industrial solvent-use source,0,7.74,0,3859.01,881.08,630.34,0
+Anhui,Huaibei,Motor vehicles,0,10263.03,27227.48,8696.8,788.54,719.97,188.27
+Anhui,Huaibei,Non-road source,66.21,5227.84,14378.89,1889.21,406.8,387.11,0
+Anhui,Huaibei,Dust source,0,0,0,0,11527.95,2634.94,0
+Anhui,Huaibei,Residential source,984.85,416.49,7494.08,3554.96,1041.59,923.29,1243.65
+Anhui,Huaibei,Agricultural source,462.29,202.92,37026.38,2680.47,1537.03,1429.05,18539.21
+Anhui,Tongling,Power plants,2050.03,5337.55,17193.73,171.99,1038.51,800.52,186.98
+Anhui,Tongling,Boilers,33220.04,12497.51,442415.75,241.11,1075.18,674.01,47.6
+Anhui,Tongling,Industrial process source,8184.99,31996.83,100116.72,10734.96,48834.39,32871.9,1489.56
+Anhui,Tongling,Industrial solvent-use source,0,0.97,0,4494.83,199.63,120.39,0
+Anhui,Tongling,Motor vehicles,0,5477.96,19435.7,5796.7,508.41,465.61,144.92
+Anhui,Tongling,Non-road source,29.17,2489.42,1419.99,284.67,124.17,118,0
+Anhui,Tongling,Dust source,0,0,0,0,18275.78,3873.3,0
+Anhui,Tongling,Residential source,758.67,299.65,5783.92,3464.05,766.55,682.75,925.1
+Anhui,Tongling,Agricultural source,94.69,247.35,12475.67,1032.18,1306.97,1215.46,12112.92
+Anhui,Anqing,Power plants,7570.77,6279.5,18804.8,169.42,567.79,438.14,176.54
+Anhui,Anqing,Boilers,29048.64,10759.39,481921.9,189.31,1598.03,1093.43,35.61
+Anhui,Anqing,Industrial process source,2189.62,8254.66,55645.37,37916.38,25525.52,16567.19,1490.88
+Anhui,Anqing,Industrial solvent-use source,0,4.21,0,4729.58,493.8,346.27,0
+Anhui,Anqing,Motor vehicles,0,12821.15,41682.92,15839.01,1310.58,1190.84,308.16
+Anhui,Anqing,Non-road source,102.56,8243.52,14137.1,1987.6,510.92,486.03,0
+Anhui,Anqing,Dust source,0,0,0,0,50002.86,10604.05,0
+Anhui,Anqing,Residential source,2428.25,860.48,18563.37,14323.82,2553.61,2266.13,2807.67
+Anhui,Anqing,Agricultural source,310.79,808.4,40295.2,3319.83,4287.42,3987.24,57591.43
+Anhui,Huangshan,Power plants,187.53,23.83,691.91,0.28,9.67,5.21,0.07
+Anhui,Huangshan,Boilers,5288.08,2092.85,107371.92,28.95,270.2,158.56,4.63
+Anhui,Huangshan,Industrial process source,288.28,155.21,448.67,9080.88,1470.11,1059.19,350.66
+Anhui,Huangshan,Industrial solvent-use source,0,0.22,0,542.71,77.58,55.89,0
+Anhui,Huangshan,Motor vehicles,0,4040.36,13226.93,4170.29,356.95,325.98,136.67
+Anhui,Huangshan,Non-road source,27.87,2004.26,2390.96,364.46,106.85,101.61,0
+Anhui,Huangshan,Dust source,0,0,0,0,19191.87,4029.06,0
+Anhui,Huangshan,Residential source,715.14,256.75,5465.35,2477.33,745.26,661.93,832.06
+Anhui,Huangshan,Agricultural source,39.67,115.67,5235.06,438.19,598.45,556.55,20141.23
+Anhui,Chuzhou,Power plants,3590.71,2069.47,6166.35,51.73,420.24,255.55,53.34
+Anhui,Chuzhou,Boilers,11254.96,8492.31,339257.28,255.03,957.31,630.54,28.55
+Anhui,Chuzhou,Industrial process source,1173.89,8905.17,41173.14,32563.71,33586.77,21127.25,1120.83
+Anhui,Chuzhou,Industrial solvent-use source,0,4.78,0,15966.4,643.39,466.84,0
+Anhui,Chuzhou,Motor vehicles,0,19974.09,37967.09,9425.19,1656.55,1506.4,292.23
+Anhui,Chuzhou,Non-road source,223.5,17391.16,50734.44,6550.12,1344,1279.33,0
+Anhui,Chuzhou,Dust source,0,0,0,0,59182.29,12455.74,0
+Anhui,Chuzhou,Residential source,2130.73,755.48,16288.67,8552.82,2249.24,1995.28,2464.32
+Anhui,Chuzhou,Agricultural source,972.98,1252.75,98706.79,7744.17,7135.26,6635.19,86532.36
+Anhui,Fuyang,Power plants,10514.31,3409.48,12260.8,82.11,630.74,476,74.48
+Anhui,Fuyang,Boilers,15504,11857.54,234027.36,259.42,607.49,408.43,23.59
+Anhui,Fuyang,Industrial process source,1282.8,58.34,9511.28,21692.79,40218.01,30937.52,4802.46
+Anhui,Fuyang,Industrial solvent-use source,0,0,0,5603.12,74.48,58.27,0
+Anhui,Fuyang,Motor vehicles,0,48798.72,67373.38,22904.34,4133.85,3745.99,464.69
+Anhui,Fuyang,Non-road source,142,11609.44,22440.71,3133.59,775.42,737.24,0
+Anhui,Fuyang,Dust source,0,0,0,0,75297.42,16440.56,0
+Anhui,Fuyang,Residential source,4624.48,1492.02,35428.76,12915.68,4768.29,4240.92,5119
+Anhui,Fuyang,Agricultural source,1734.8,920.79,143130.57,10441.35,6530.23,6071.69,135216.77
+Anhui,Suzhou,Power plants,12012.19,5141.3,16790.27,134.91,7544.71,4970.15,133.6
+Anhui,Suzhou,Boilers,17604.89,6546.28,350721.79,94.06,1035.07,657.41,19.08
+Anhui,Suzhou,Industrial process source,954.53,5098.8,11505.29,36872.3,47719.4,28775.28,999.58
+Anhui,Suzhou,Industrial solvent-use source,0,0,0,863.72,0,0,0
+Anhui,Suzhou,Motor vehicles,0,43651.42,47238.7,12446.42,3262.62,2953.82,298.83
+Anhui,Suzhou,Non-road source,158.85,13013.1,44935.3,5549.19,958.55,912.1,0
+Anhui,Suzhou,Dust source,0,0,0,0,38108.89,8201.23,0
+Anhui,Suzhou,Residential source,3221.7,1043.17,24679.92,8342.75,3322.65,2955.07,3572.02
+Anhui,Suzhou,Agricultural source,1234.9,591.53,99043.89,7181.71,4285.87,3984.84,127238.41
+Anhui,Lu¡¯an,Power plants,8358.9,4092.09,31292.65,92.57,618.99,459.48,77.25
+Anhui,Lu¡¯an,Boilers,6073.43,3381.38,126387.84,77.46,276.47,178.81,5.55
+Anhui,Lu¡¯an,Industrial process source,119.06,154.29,1791.8,15838.1,17310.31,12964.79,323.32
+Anhui,Lu¡¯an,Industrial solvent-use source,0,1.7,0,3946.53,255,186.76,0
+Anhui,Lu¡¯an,Motor vehicles,0,31648.88,42479.23,13298.39,2190.11,1989.1,343.81
+Anhui,Lu¡¯an,Non-road source,163.04,12770.6,35513.62,4610.56,960.99,914.64,0
+Anhui,Lu¡¯an,Dust source,0,0,0,0,51954.74,11190.13,0
+Anhui,Lu¡¯an,Residential source,2719.15,885.5,20827.49,8093.42,2854.5,2534.19,3022.68
+Anhui,Lu¡¯an,Agricultural source,580.15,1016.91,64864.85,5237.66,5510.89,5124.84,69987.44
+Anhui,Bozhou,Power plants,4300.69,3034.81,11836.13,107.34,894.25,686.94,112.21
+Anhui,Bozhou,Boilers,7202.16,7236.11,87754,65.13,733.76,341.6,12.46
+Anhui,Bozhou,Industrial process source,174.68,135.09,494.01,12475.48,22449.13,15238.76,673.45
+Anhui,Bozhou,Industrial solvent-use source,0,0.13,0,3007.12,7.82,4.95,0
+Anhui,Bozhou,Motor vehicles,0,25668.11,41115.48,13144.21,2242.84,2033.88,282.89
+Anhui,Bozhou,Non-road source,129.58,10928,29340.59,3852.32,783.17,744.29,0
+Anhui,Bozhou,Dust source,0,0,0,0,40145.49,8850.89,0
+Anhui,Bozhou,Residential source,2997.95,952.08,22975.47,7858.15,3086.57,2745.73,3294.97
+Anhui,Bozhou,Agricultural source,1561.9,694.93,125259.62,9059.32,5227.65,4860.41,76102.33
+Anhui,Chizhou,Power plants,681.88,1336.64,3746.2,37.46,158.5,122.39,40.73
+Anhui,Chizhou,Boilers,11801.03,5414.59,271990.29,96.85,642.24,408.31,22.75
+Anhui,Chizhou,Industrial process source,6547.16,17166.41,27393.71,10775.07,26553.54,15847.75,513.82
+Anhui,Chizhou,Industrial solvent-use source,0,2.35,0,897.24,483.42,362.5,0
+Anhui,Chizhou,Motor vehicles,0,3681.67,12444.86,4958.57,296.36,271.71,126.45
+Anhui,Chizhou,Non-road source,47.35,3835.85,5192.56,767.39,217.43,206.78,0
+Anhui,Chizhou,Dust source,0,0,0,0,42791.45,8848.86,0
+Anhui,Chizhou,Residential source,731.09,269.14,5583.79,3855.11,764.34,678.61,860.97
+Anhui,Chizhou,Agricultural source,88.88,265.14,12421.34,1037.55,1386.11,1289.07,15967.55
+Anhui,Xuancheng,Power plants,842.39,2200.55,6480.76,64.81,582.19,450.92,70.46
+Anhui,Xuancheng,Boilers,15011.89,6695.14,339007.16,141.21,1198.22,738.29,24.13
+Anhui,Xuancheng,Industrial process source,9852.86,19132.64,25991,20958.83,33967.29,18256.34,2326.01
+Anhui,Xuancheng,Industrial solvent-use source,0,5.83,0,4433.46,839.49,604.12,0
+Anhui,Xuancheng,Motor vehicles,0,13356.87,30481.47,12079.28,1114.75,1012.93,232.18
+Anhui,Xuancheng,Non-road source,53.5,4337.79,7569.77,1059.95,270.11,256.92,0
+Anhui,Xuancheng,Dust source,0,0,0,0,39898.73,8435.71,0
+Anhui,Xuancheng,Residential source,1433.9,483.09,10974.69,5079.17,1493.29,1326.65,1619.04
+Anhui,Xuancheng,Agricultural source,213.02,455.68,25635.12,2094.04,2434,2263.54,28580.07
+Yangtze River Delta(in ships emission control area),,Marine,114886.14,298808.91,21319.44,7768.92,15935.43,14588.11,60.45
